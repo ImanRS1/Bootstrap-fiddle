@@ -27,10 +27,39 @@
     background-color: skyblue;
 }
 
+#lastRow{
+    height:150px;
+}
+
+#lastRow h6{
+    margin-top: 65px;
+}
+
 body{
     background-color: rgb(247, 244, 244);
 }
 
-a{
-    margin-right: 40px;
+a{ 
+    margin-right: 80px;
+}
+
+.navbar-brand{
+    margin-right: 80px;
+}
+
+.col-8 img{
+    height: 400px;
+    margin-top: 50px;
+    margin-right: 5px;
+}
+
+.col-8{
+    padding: 0;
+    padding-right: 10px;
+}
+
+.carousel-control-next{
+    margin-right: 0px;
+    margin-left: 80px;
+
 }
