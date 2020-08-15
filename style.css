@@ -1,11 +1,36 @@
 .container{
     border: 1px solid black;
+    background-color: #FFF;
+    margin-top: 20px;
+    
 }
 
 .col{
     border: 1px solid black;
 }
 
-.row{
-    min-height: 300px;
+
+.navbar-nav{
+    padding: 0;
+}
+
+#firstRow{
+    padding: 0;
+}
+
+#firstCol{
+    padding: 0;
+}
+
+#mainRow{
+    height: 500px;
+    background-color: skyblue;
+}
+
+body{
+    background-color: rgb(247, 244, 244);
+}
+
+a{
+    margin-right: 40px;
 }
