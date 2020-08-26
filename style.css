@@ -9,7 +9,6 @@
 
 
 .bPic{
-    /*background-image: url("images/f1.jpeg");*/
     position: absolute; 
     z-index: -999;
     opacity : 0.4;
@@ -54,12 +53,7 @@
 }
 
 body{
-    /*background-image: url("images/f1.jpeg");
-    background-position: center; 
-  /*background-repeat: no-repeat;
-  background-size: cover;*/
-    background-color: rgb(190, 218, 218);
-    
+    background-color: rgb(190, 218, 218);   
 
 }
 
@@ -114,7 +108,6 @@ a{
     margin-top: 5px;
   }
   
-  /* [3] Finally, transforming the image when container gets hovered */
   .img-hover-zoom:hover img {
     transform: scale(1.5);
   }
