@@ -1,2 +1,2 @@
-# Bootstrap-fidle
+# Bootstrap-fiddle
 https://imanrs1.github.io/Bootstrap-fidle/
